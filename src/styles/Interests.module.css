@@ -1,0 +1,10 @@
+.interests {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .interest {
+    margin: 10px;
+    text-align: center;
+  }
